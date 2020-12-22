@@ -1,4 +1,4 @@
-# Introudction
+# Introduction
 This the MIPI camera software SDK for Raspberry pi platform, which allow you connect global shutter cameras and upto 18MP cameras on RPI board.
 
 Now the supported MIPI camera modules are below:
@@ -58,6 +58,8 @@ wget https://project-downloads.drogon.net/wiringpi-latest.deb
 ```bash
 sudo dpkg -i wiringpi-latest.deb
 ```
+This library is no longer kept up to date. A patched version can be found on
+https://github.com/WiringPi/WiringPi.
 
 ![IMAGE ALT TEXT](images/4.png)
 Then click Y/y to reboot now
